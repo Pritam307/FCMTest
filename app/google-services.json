@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "545303107246",
+    "firebase_url": "https://fcmtest-3693c.firebaseio.com",
+    "project_id": "fcmtest-3693c",
+    "storage_bucket": "fcmtest-3693c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545303107246:android:f6fc28696117c847",
+        "android_client_info": {
+          "package_name": "com.developer.pritampc.fcmtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545303107246-6emfh33j8mq0mhft4sq1a3j7snkprqsi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHZYxvlGE7E2Dz1C68JCaDhp9NUBDEAu8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
